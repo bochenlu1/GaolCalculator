@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\ochri\\OneDrive\\Documents\\Course Work\\Capstone\\DEI-Calculator\\DEIcalc",
+        "app_url": "https://ochristopher380.shinyapps.io/dei-calculator/",
+        "app_id": 11881708,
+        "app_guid": null,
+        "title": "DEI-Calculator",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
