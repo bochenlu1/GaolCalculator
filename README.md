@@ -33,3 +33,11 @@ LLM-generated content provide tailored data descriptions & advice specific to in
 3. Increased Leadership Engagement: Clear & actionable insights in addition to on-the-fly scenario adjustments fosters
 greater buy-in from leadership, enhancing the overall impact and sustainability of DEI initiatives.
 Impact & Results
+
+**Deployed App here**:
+
+https://ochristopher380.shinyapps.io/dei-calculator/
+
+**Project Portfolio here:**
+
+https://sites.google.com/view/dei-goal-calculator/welcome
